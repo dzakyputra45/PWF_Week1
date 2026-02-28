@@ -1,29 +1,30 @@
-# 📌 Laravel TODO Project – Breeze Authentication
+# 📌 Laravel Project
 
 ---
 
-## 1️⃣ Terminal – Command Instalasi Breeze (10 Point)
+## 1️⃣ Laravel Welcome
 
-<img width="1918" height="987" alt="Screenshot 2026-02-28 082138" src="https://github.com/user-attachments/assets/69dd7f00-9a87-4f87-8d49-625ba09e1d7c" />
+<img width="1915" height="960" alt="Screenshot 2026-02-21 203325" src="https://github.com/user-attachments/assets/5ef4b220-aa7c-4559-8277-3181074fbb93" />
 
----
-
-## 2️⃣ VSCode – File web.php (10 Point)
-
-
-<img width="1919" height="1014" alt="Screenshot 2026-02-28 083811" src="https://github.com/user-attachments/assets/3ad90ecf-e168-400c-bae2-6ebe3faa0682" />
 
 
 ---
 
-## 3️⃣ Browser – http://nim-todo.test/dashboard (10 Point)
+## 2️⃣ Login
 
-<img width="1919" height="1013" alt="Screenshot 2026-02-28 082408" src="https://github.com/user-attachments/assets/f6224370-bef5-4844-aaf5-d0bb45cb868f" />
+<img width="1919" height="860" alt="Screenshot 2026-02-28 090432" src="https://github.com/user-attachments/assets/6ec4b2e3-a5e0-493e-992e-56e580f8022a" />
 
 
 ---
 
-## 4️⃣ Database – Tabel Users (10 Point)
+## 3️⃣ Register
 
-<img width="1918" height="1016" alt="Screenshot 2026-02-28 082430" src="https://github.com/user-attachments/assets/5db1e8e2-277b-45b1-83dd-2878fffb2e86" />
+<img width="1919" height="869" alt="Screenshot 2026-02-28 090444" src="https://github.com/user-attachments/assets/e634ee85-97da-4263-98e1-07036f2469a3" />
+
+
+---
+
+## 4️⃣ ABout
+
+<img width="1919" height="863" alt="Screenshot 2026-02-28 090359" src="https://github.com/user-attachments/assets/a3b3b7b6-a609-4192-81a3-4a39c4f3bd08" />
 
